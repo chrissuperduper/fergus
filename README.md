@@ -1,9 +1,9 @@
 # Developer Technical Test
 
-Created by: Christopher Riding <chris@superduper.co.nz>
-Date: 27th September 2022
+Created by: Christopher Riding <chris@superduper.co.nz> <br />
+Date: 27th September 2022 <br />
 
-I've created the front-end for this project using [Remix](https://remix.run/) with Typescript.
+I've created the front-end for this project using [Remix](https://remix.run/) with Typescript. <br />
 
 I'm using local storage to store the data. See below on how to run this project.
 
